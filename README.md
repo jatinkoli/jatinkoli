@@ -1,5 +1,4 @@
-"# Hello, folks! <img src="https://github.com/jatinkoli/jatinkoli/blob/main/Wave.gif" width="30px">
-
+"# Hello, folks! <img src="https://user-images.githubusercontent.com/73309492/188429392-6e40776a-f9bc-43fe-8886-b19a01be49de.gif" width="100px">
 - 👋 Hi, I’m @jatinkoli
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
